@@ -17,6 +17,10 @@ const App = () => {
       name: 'Steal a boat from a guy in the street',
       reward: '$3000',
     },
+    {
+      name: 'Steal a plane from a guy in the street',
+      reward: '$4000',
+    },
   ]);
   return (
     <>
